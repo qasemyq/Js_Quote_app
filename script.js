@@ -1,6 +1,4 @@
-// ba in barname mikham vagti roye buttom zadam quote haie ke neveshtam ro generate kone
 
-//inja ya array minevisam
 const quotes = [
   {
     name: "Anne Frank",
@@ -25,14 +23,10 @@ const quotes = [
   },
 ];
 
-// inja avval button ro target mikonam
 const quoteBtn = document.querySelector("#quoteBtn");
-// inja esme nevisandaro target mikonam
 const quoteAuthor = document.querySelector("#quoteAuthor");
-// inja quote ro target midam
 const quote = document.querySelector("#quote");
 
-// inja be buttom eventlistener ezafe mikonam
 quoteBtn.addEventListener("click", displayquote);
 
 function displayquote() {
