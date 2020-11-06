@@ -4,22 +4,18 @@ const quotes = [
     name: "Anne Frank",
     quote: "Think of all the beauty still left around you and be happy",
   },
-  
   {
     name: "Albert Einstein",
     quote: "Onve you stop learning, you start dying",
   },
-  
   {
     name: "Steve jobs",
     quote: "the only way to do great work, is to love what you do",
   },
-  
   {
     name: "Paulo coelho",
     quote: "the world is chanaged by your example, not by your opinion ",
   },
-  
   {
     name: "johnny sins",
     quote:
