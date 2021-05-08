@@ -23,7 +23,6 @@ const quotes = [
   },
 ];
 
-// 
 const quoteBtn = document.querySelector("#quoteBtn");
 const quoteAuthor = document.querySelector("#quoteAuthor");
 const quote = document.querySelector("#quote");
