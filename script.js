@@ -22,7 +22,7 @@ const quotes = [
       "i failed in some subjects in exam, but my friend passed in all. now he is a cameraman in pornhub and i am a pornstar",
   },
 ];
-
+//
 const quoteBtn = document.querySelector("#quoteBtn");
 const quoteAuthor = document.querySelector("#quoteAuthor");
 const quote = document.querySelector("#quote");
